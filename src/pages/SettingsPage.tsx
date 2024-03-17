@@ -8,7 +8,7 @@ export function SettingsPage() {
       <Header>
         <h1>Settings Page</h1>
         <Button path="/">
-          <Home className="size-4" />
+          <Home className="size-3" />
           Home
         </Button>
       </Header>

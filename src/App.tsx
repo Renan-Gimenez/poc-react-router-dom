@@ -15,7 +15,7 @@ function App() {
       <Header>
         <h1>Main Page</h1>
         <Button path="/settings">
-          <Settings className="size-4" />
+          <Settings className="size-3" />
           Settings
         </Button>
       </Header>
